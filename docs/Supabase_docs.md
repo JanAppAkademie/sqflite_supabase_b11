@@ -1,4 +1,4 @@
-## Supabase-Integration in diesem Flutter-Projekt (mit Ausblick auf Firebase Auth)
+## Supabase-Integration in diesem Flutter-Projekt
 
 ## 1) Voraussetzungen
 - Ein Supabase-Projekt mit
