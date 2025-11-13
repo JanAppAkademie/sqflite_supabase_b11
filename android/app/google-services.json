@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403788321135",
+    "project_id": "testb11-app",
+    "storage_bucket": "testb11-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403788321135:android:e45803508d3ac9d274d89a",
+        "android_client_info": {
+          "package_name": "com.example.hive_example_b11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgoAO8qyNHJcekD7CGVd3A3ja61r3s88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
